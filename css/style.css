@@ -1,8 +1,4 @@
-.pacifico-regular {
-    font-family: "Pacifico", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Phudu:wght@300..900&display=swap');
   
 #center{
     text-align: center;
